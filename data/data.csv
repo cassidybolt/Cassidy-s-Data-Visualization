@@ -1,3 +1,54 @@
 x,y,diameter,name
-255,550,7,Mexico City, Mexico
-372,472,7,Durham, North Carolina
+255,550,10,Ana,Mexico City
+300,580,10,Freddy,Granada
+305,583,10,Claudia,Granada
+299,573,10,Ena, Masaya
+307,572,10,Marlon,Matagalpa
+430,610,10,Fede,Caracas
+400,605,10,Juan,Bogota
+230,440,10,Aishu,Denver
+206,483,10,Avery,Santa Ana
+208,485,10,Arden,Santa Ana
+204,481,10,Elliot,Santa Ana
+203,483,10,Scott,Santa Ana
+210,483,10,Denise,Santa Ana
+207,493,10,Hayden,Laguna Beach
+204,493,10,Stefan,Tustin
+203,491,10,Jessica,Tustin
+201,490,10,Hayley,Tustin
+196,486,10,Logan,Tustin
+196,478,10,Bonnie,Orange
+198,479,10,Jerry,Orange
+220,465,10,Maha,Phoenix
+350,480,10,Cam,Atlanta
+195,468,10,Dan,LA
+195,460,10,Rachel,Fresno
+184,440,10,Austin,San Francisco
+372,472,10,Cody,Durham
+370,470,10,Puj,Durham
+350,430,10,Matt,Chicago
+378,450,10,Camille,Richmond
+380,450,10,Priya,Richmond
+381,454,10,Francesca,Virginia Beach
+450,377,10,Maddy,Boston
+400,365,10,Lizzie,NYC
+245,545,10,Zuri,Sonora
+351,510,10,Divya,Orlando
+349,511,10,Gerardo,Miami
+348,515,10,Maddie,Miami
+347,513,10,Jess,Miami
+385,560,10,Ricardo,Puerto Rico
+762,440,10,Pier,Milan
+700,450,10,Adriana,Madrid
+703,455,10,Alfonso,Madrid
+703,374,10,Gus,London
+680,375,10,Tiffany,Cork
+990,300,10,Alina,Moscow
+1130,380,10,Ziqi,Chengdu
+1200,600,10,Aniki,Siem Reap
+1343,889,10,Ben,New Zealand
+704,600,10,Nosa,Abuja
+730,420,10,Sinclair,Paris
+
+
+

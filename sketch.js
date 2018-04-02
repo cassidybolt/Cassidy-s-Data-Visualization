@@ -66,7 +66,7 @@ class Bubble {
 
   // Display the Bubble
   display() {
-    fill(255);
+    fill(0);
     stroke(0);
     strokeWeight(2);
     ellipse(this.x, this.y, this.diameter, this.diameter);
